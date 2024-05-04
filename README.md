@@ -45,6 +45,8 @@ Install the necessary Python packages specified in `requirements.txt`.
 pip install -r requirements.txt
 ```
 
+#### Step 4: Replace your OPENAI_API_KEY in .env
+
 ### Running the Application
 
 To run the application, use the following command:
