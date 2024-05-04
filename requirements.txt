@@ -5,9 +5,6 @@ bitsandbytes
 sentence_transformers
 faiss_cpu
 chainlit
-huggingface_hub
-fastapi
-jinja2
 python-multipart
 uvicorn
 openai
